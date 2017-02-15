@@ -1,3 +1,5 @@
+package edu.ucsd.cs110.tests;
+
 import edu.ucsd.cs110.temperature.Celsius;
 import edu.ucsd.cs110.temperature.Temperature;
 import junit.framework.TestCase;
